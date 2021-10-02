@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
   <li>Bagian Satu</li>
   <li>Bagian Satu</li>
   </ol>
-<h1>Membangun Dasar</h1>
+<h1 style='color:red;'>Membangun Dasar</h1>
 <p>Ini adalah bagaimana saya membangun suatu dasar yang fleksibel</p>
