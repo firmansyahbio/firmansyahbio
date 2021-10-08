@@ -13,3 +13,5 @@ You can click the Preview link to take a look at your changes.
 <h1>Dasar</h1>
 <h2>✓ Nilai Utama</h2>
 <p>Ini adalah bagaimana saya membangun suatu dasar yang fleksibel</p>
+<strong><p>1. Mengatur pengujian yang optimal</p></strong>
+<strong><p>2. Meningkatkan kecepatan website</p></strong>
