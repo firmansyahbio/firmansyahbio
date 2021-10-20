@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 <p>Ini adalah bagaimana saya membangun suatu dasar yang fleksibel</p>
 <strong><p>1. Mengatur pengujian yang optimal</p></strong>
 <strong><p>2. Meningkatkan kecepatan website</p></strong>
-# Membangun kode dengan repositori adalah hal yang membuat saya sangat sangat `bersemangat` 
+# Membangun kode dengan repositori adalah hal yang membuat saya sangat sangat `bersemangat`
+[Situs Publik](https://firmansyahbio.github.io/frasa.github.io)
