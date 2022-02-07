@@ -3,8 +3,8 @@ Firmansyahbio/Firmansyahbio is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Close
-<h1>Dasar</h1>
+# Welcome to code line bright spot developer
+
 <h2>✓ Selamat datang di bagian karya Saya</h2>
 <p>Ini adalah bagaimana saya membangun suatu dasar yang fleksibel</p>
 <strong><p>1. Mengatur pengujian yang optimal</p></strong>
