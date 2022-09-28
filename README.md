@@ -5,9 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome to code line bright spot developer
 
-#✓ Kode untuk kebaikan
-<p>Ini adalah bagaimana saya membangun suatu dasar komitmen yang dapat membawa kebaikan, berguna, fleksibel, dan terarah.</p>
-<strong><p>1. Mengatur pengujian yang optimal</p></strong>
-<strong><p>2. Meningkatkan kecepatan website</p></strong>
-# Membangun kode dengan repositori adalah hal yang membuat saya sangat sangat `bersemangat`
+## ✓ Kode untuk kebaikan
+
+### Membangun kode dengan repositori adalah hal yang membuat saya sangat sangat `bersemangat`
 https://firmansyahbio.github.io
