@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Selamat datang di halaman github Saya.
 
-Mari bersama Kita melihat apa yang dapat di tunjukan.
+Berlatih melihat dengan logika untuk membangun suatu algoritma.
 
 [Leading Page](https://firmansyahbio.github.io)
 
