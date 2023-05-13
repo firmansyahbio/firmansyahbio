@@ -2,6 +2,9 @@
 Firmansyahbio/Firmansyahbio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# [Firmansyah](https://withkoji.com/@firmansyahbio)
+
+
 # Selamat datang di halaman github Saya.
 
 Berlatih melihat dengan logika untuk membangun suatu algoritma.
