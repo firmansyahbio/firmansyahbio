@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 Berlatih melihat dengan logika untuk membangun suatu algoritma.
 
-## [Leading Page]
+[Leading Page]
 - [Web](https://firmansyahbio.github.io)
 
 ## Halaman
