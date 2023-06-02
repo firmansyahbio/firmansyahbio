@@ -13,18 +13,12 @@ Berlatih melihat dengan logika untuk membangun suatu algoritma.
 
 ## Halaman
 
-- [Utama](https://firmansyahbio.github.io/design)
-
-## Demo
-
-- [Demo](https://azouaoui-med.github.io/react-pro-sidebar/iframe.html?id=playground--playground&args=&viewMode=story)
-
-- [Storybook](https://azouaoui-med.github.io/react-pro-sidebar/?path=/docs/sidebar--basic)
+- [Home](https://firmansyahbio.github.io)
 
 ## Website
 
 - [Design](https://firmansyahbio.github.io/design)
-- 
+
 <table><tr><td valign="top" width="50%">
 
 ### Koleksi
