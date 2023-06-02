@@ -13,7 +13,7 @@ Berlatih melihat dengan logika untuk membangun suatu algoritma.
 
 ## Blog Code
 
-- [Firmansyah](https://firmansyahbio.blogger.com)
+- [Firmansyah](https://firmansyahbio.blogspot.com)
 
 ## Website
 
