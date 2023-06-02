@@ -11,9 +11,9 @@ Berlatih melihat dengan logika untuk membangun suatu algoritma.
 
 - [Leading Page](https://firmansyahbio.github.io)
 
-## Halaman
+## Blog Code
 
-- [Home](https://firmansyahbio.github.io)
+- [Firmansyah](https://firmansyahbio.blogger.com)
 
 ## Website
 
