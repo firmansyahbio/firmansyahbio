@@ -30,7 +30,7 @@ Berlatih melihat dengan logika untuk membangun suatu algoritma.
 ### Alat
 
 
-[⚙️ Alat Penguji](https://firmansyahbio.github.io/web-speed)
+[Lorem Ipsum](https://loremipsum.io)
 
 * Menguji kecepatan
 
